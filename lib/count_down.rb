@@ -1,1 +1,0 @@
-ruby lib/count_down.rb
